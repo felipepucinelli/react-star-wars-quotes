@@ -1,5 +1,7 @@
 # React Star Wars Quotes
 
+![react-star-wars-quotes](https://raw.github.com/felipepucinelli/react-star-wars-quotes/master/demo.png)
+
 This is the React comment box example from [the React tutorial](http://facebook.github.io/react/docs/tutorial.html) with some additional modifications using the Star Wars characters.
 
 ## To use
