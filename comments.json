@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1388534400000,
+        "author": "Obi-Wan Kenobi",
+        "text": "Use the Force, Luke.",
+        "color": "#3498db"
+    },
+    {
+        "id": 1420070400000,
+        "author": "Darth Vader",
+        "text": "The Force is strong with this one.",
+        "color": "#FF3B30"
+    },
+    {
+        "id": 1450370519064,
+        "author": "Luke Skywalker",
+        "text": "I have a very bad feeling about this.",
+        "color": "#4CD964"
+    }
+]
